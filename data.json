@@ -1,0 +1,124 @@
+{
+  "projects": [
+    {
+      "id": "0",
+      "project_name": "treehouse_techdegree_project_1",
+      "description": "A Random Quote Generator",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "live_link": "",
+      "github_link": "https://github.com/avamisola/treehouse_techdegree_project_1",
+      "image_urls": [
+        {
+          "main": ""
+        },
+        {
+          "sub": [
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "project_name": "treehouse_techdegree_project_2",
+      "description": "List Pagination and Filtering",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "live_link": "",
+      "github_link": "https://github.com/avamisola/treehouse_techdegree_project_2",
+      "image_urls": [
+        {
+          "main": ""
+        },
+        {
+          "sub": [
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "project_name": "treehouse_techdegree_project_3",
+      "description": "Interactive Form",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "live_link": "",
+      "github_link": "https://github.com/avamisola/treehouse_techdegree_project_3",
+      "image_urls": [
+        {
+          "main": ""
+        },
+        {
+          "sub": [
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "project_name": "treehouse_techdegree_project_4",
+      "description": "OOP Game Show App",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "live_link": "",
+      "github_link": "https://github.com/avamisola/treehouse_techdegree_project_4",
+      "image_urls": [
+        {
+          "main": ""
+        },
+        {
+          "sub": [
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "project_name": "treehouse_techdegree_project_5",
+      "description": "Public API Requests",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "live_link": "",
+      "github_link": "https://github.com/avamisola/treehouse_techdegree_project_5",
+      "image_urls": [
+        {
+          "main": ""
+        },
+        {
+          "sub": [
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}
